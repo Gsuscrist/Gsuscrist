@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying Software Development<br>👯 I’m looking to collaborate on small projects and new environments<br>🤝 I’m looking for help with programming algorithms<br>🌱 I’m currently learning Java, JavaScript<br>⚡ Fun fact: I learn Git and Java essential in one night 
+🔭 I’m studying Software Development<br>👯 I’m looking to collaborate on small projects and new environments<br>🤝 I’m looking for help with programming algorithms<br>🌱 I’m currently learning Java, JavaScript<br>⚡ Fun fact: I learn Git and Java essential in one night 
 
 
 # 💻 Tech Stack:
